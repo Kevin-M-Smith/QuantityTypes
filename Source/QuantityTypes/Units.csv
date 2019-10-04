@@ -334,6 +334,7 @@ RadiationEquivalentDose,Sievert,Sv,1
 Fraction,Frac,,1
 Fraction,Percent,%,0.01
 Fraction,Permil,‰,0.001
+Fraction,Permyriad,‱,0.0001
 Fraction,PartPerMillion,ppm,1E-06
 Fraction,PartPerBillion,ppb,1E-09
 
